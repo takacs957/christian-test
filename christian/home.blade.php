@@ -13,7 +13,7 @@
 <br /><br />
     <!-- Menu -->
 <ul class="topnav menu vertical">
-                <li><a href="">Pages</a>
+                <li><a href="">Seiten</a>
     <ul class="menu vertical nested">
       <li><a href="#">New Page</a></li>
       <li><a href="#">Manage Pages</a></li>
